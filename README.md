@@ -4,50 +4,34 @@
 
 # Hi, I'm Angie Gheller.
 
-I build brand systems that connect **strategy, culture, audience behavior, partnerships, and measurable growth**.
+I'm a brand strategist working across entertainment, hospitality, digital marketing, and culture. For more than 11 years, I have helped brands understand their audiences, build stronger stories, and turn ideas into experiences people remember.
 
-My background spans 11+ years across digital marketing, entertainment, hospitality, gaming, live experiences, influencer work, production, and measurement—with professional fluency across Brazilian and U.S. markets.
+My work connects brand strategy, content, partnerships, audience growth, experiential marketing, and measurement across Brazilian and U.S. markets.
 
-AI is part of my infrastructure, not my identity. I use it to accelerate research, organize evidence, pressure-test decisions, and turn repeatable thinking into useful systems. Human judgment, context, and accountability stay in the loop.
+AI is part of my infrastructure. I use it to research faster, organize what I learn, test ideas, and build useful systems.
 
-## What I'm building now
+## What I'm building
 
-### Funciona Mesmo? Evidence Engine — in development
+### O Mapa do Digital
 
-A transparent system for examining marketing claims, documenting evidence, and separating useful practice from hype. The public repository begins with the methodology, audit schema, and fictional demonstrations before any rights-cleared real examples are added.
+A digital book and platform in Portuguese for marketers, creators, and small agencies who want to understand what works, why it works, and how to apply it.
 
-## What I'm exploring next
+### Funciona Mesmo?
 
-### O Mapa do Digital — planned platform
+A research project that looks closely at marketing claims, tools, and tactics to separate useful ideas from hype.
 
-A Portuguese-language strategic platform that helps marketers, creators, and small agencies understand what works, why it works, and how to apply it with stronger evidence and better judgment.
+### Agency Decision System
 
-### Agency Decision System — concept in development
+A working system that brings research, campaign signals, and team knowledge together so better decisions happen faster.
 
-A structured workflow for turning fragmented research, campaign signals, and institutional knowledge into clearer strategic decisions. Only sanitized methods or demonstrations will be made public.
+## What I work on
 
-## My operating principles
+`Brand Strategy` · `Digital and Social Strategy` · `Audience Growth` · `Partnerships` · `Experiential Marketing` · `Content Development` · `Measurement` · `AI Workflows`
 
-- Evidence before certainty
-- Systems before one-off tactics
-- Culture and audience behavior before channel obsession
-- AI-assisted, human-reviewed
-- Public or permissioned data only
-- Clear dates, sources, assumptions, and corrections
-- No confidential client information
+## How I work
 
-## Selected professional focus
-
-`Brand Strategy` · `Digital & Social Strategy` · `Audience Growth` · `Partnerships` · `Experiential & Venue Marketing` · `Measurement` · `AI-Enabled Workflows`
-
-## Current repository roadmap
-
-| Project | Purpose | Status |
-|---|---|---|
-| Funciona Mesmo? Evidence Engine | Audit marketing claims through a repeatable evidence method | Design scaffold |
-| O Mapa do Digital | Translate evidence into useful Portuguese-language strategy | Planned |
-| Public Case Studies | Show rights-cleared strategic thinking and outcomes | Planned |
-
-## Connect
-
-Portfolio and professional contact links will be added after the final public identity and URLs are confirmed.
+I start with the audience.<br>
+I look for evidence.<br>
+I turn useful thinking into systems.<br>
+I protect confidential client information.<br>
+I keep people responsible for the final decision.
